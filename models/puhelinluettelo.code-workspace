@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../fullstack-open-assignments/osa2/puhelinluettelo"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
